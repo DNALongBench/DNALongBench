@@ -17,6 +17,6 @@ tags:
 
 Welcome 👋
 
-## LeaderBoader
+## LeaderBoard
 
 {{< table path="results.csv" header="true">}}
